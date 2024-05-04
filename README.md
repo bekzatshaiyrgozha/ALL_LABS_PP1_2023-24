@@ -1,4 +1,4 @@
-- SECOND SEMESTER, ALL LABORATORY WORK IN PYTHON🐍
+- SECOND SEMESTER, ALL LABORATORY WORK IN *C++*
 ------------------------------------
 - TOPICS
 -----------
